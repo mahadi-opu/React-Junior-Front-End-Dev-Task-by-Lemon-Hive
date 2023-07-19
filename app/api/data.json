@@ -1,0 +1,365 @@
+[
+    {
+      "id": 1,
+      "title": " Freezing Edge 2023 ",
+      "details": " The edge isnt bleeding its freezing! ",
+      "date": "02 September, 2023",
+      "organizer": [
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        },
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        },
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        }
+      ],
+      "schedules": [
+        {
+          "id": 1,
+          "date": "February 11, 2014",
+          "day": "wednesday",
+          "time": [
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "date": "February 11, 2014",
+          "day": "wednesday",
+          "time": [
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            }
+          ]
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 1,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        },
+        {
+          "id": 2,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        },
+        {
+          "id": 3,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": " Freezing Edge 2023 ",
+      "details": " The edge isnt bleeding its freezing! ",
+      "date": "02 September, 2023",
+      "organizer": [
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        },
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        },
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        }
+      ],
+      "schedules": [
+        {
+          "id": 1,
+          "date": "February 11, 2014",
+          "day": "wednesday",
+          "time": [
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "date": "February 11, 2014",
+          "day": "wednesday",
+          "time": [
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            }
+          ]
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 1,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        },
+        {
+          "id": 2,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        },
+        {
+          "id": 3,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": " Freezing Edge 2023 ",
+      "details": " The edge isnt bleeding its freezing! ",
+      "date": "02 September, 2023",
+      "organizer": [
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        },
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        },
+        {
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": ""
+        }
+      ],
+      "speakers": [
+        {
+          "id": 1,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Siddhartha",
+          "description": " The edge isnt bleeding its freezing!",
+          "photo": "",
+          "social": {
+            "facebook": "facebook.com/username",
+            "linkdin": "facebook.com/username",
+            "dlobble": "facebook.com/username",
+            "github": "facebook.com/username"
+          }
+        }
+      ],
+      "schedules": [
+        {
+          "id": 1,
+          "date": "February 11, 2014",
+          "day": "wednesday",
+          "time": [
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "date": "February 11, 2014",
+          "day": "wednesday",
+          "time": [
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            },
+            {
+              "duration": "05.00-06:00",
+              "topic": "Registration"
+            }
+          ]
+        }
+      ],
+      "sponsors": [
+        {
+          "id": 1,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        },
+        {
+          "id": 2,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        },
+        {
+          "id": 3,
+          "company_name": "February 11, 2014",
+          "company_details": "February 11, 2014",
+          "company_logo": ""
+        }
+      ]
+    }
+  ]

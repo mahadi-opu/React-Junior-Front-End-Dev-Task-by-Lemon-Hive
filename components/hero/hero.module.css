@@ -1,0 +1,35 @@
+
+/* START Hero section Comment  */
+.hero_section{
+   background-image: url(../../public/hero/Background_elements.png);
+   background-color: white;
+   background-size: cover;
+   object-fit: cover;
+   position: relative;
+   z-index: 10;
+   margin-top: -80px;
+}
+.herotop_content{
+    width: 100%;
+   
+}
+.herobottom_content{
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 45;
+}
+
+.left_image{
+    width: 400px;
+    height: auto;
+    background-size: cover;
+}
+.right_image{
+    width: 850px;
+    height: auto;
+    margin-top: -76px;
+    margin-left: -70px;
+}
+
+/* END Hero section Comment  */
