@@ -41,7 +41,7 @@ const Hero = () => {
               </div>
             </div>
             <div className='order-[2] lg:order-[3]'>
-              <Image src={heroImg} className={`${styles.right_image} mt-[0px] lg:mt-[-100]`} alt="Picture of the author" />
+              <Image src={heroImg} className={`${styles.right_image} mt-[0px] lg:mt-[-60px] ml-[0px] lg:ml-[-75px]`} alt="Picture of the author" />
             </div>
           </div>
         </div>
