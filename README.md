@@ -6,6 +6,8 @@
 ![Car Showcase](https://ibb.co/98qtP4d/thumbnail/home.jpg)
 ![Car Showcase](https://ibb.co/tD2z3bC/thumbnail/others.jpg)
 
+![Example Image](thumbnail/others.jpg);
+
 
 ## Introduction
 The demand for Next.js 13 applications peaked! Now is the perfect time to build a state-of-the-art modern application that leverages all of the latest and greatest of what Next 13 has to offer, leveraging features such as server-side rendering and the app router. 
