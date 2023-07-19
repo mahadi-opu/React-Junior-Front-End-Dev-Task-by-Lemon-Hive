@@ -2,11 +2,11 @@
 
 
 # Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
-![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
-![Car Showcase](https://ibb.co/98qtP4d/thumbnail/home.jpg)
-![Car Showcase](https://ibb.co/tD2z3bC/thumbnail/others.jpg)
 
-![Example Image](thumbnail/others.jpg)
+
+![others](https://github.com/mahadi-opu/React-Junior-Front-End-Dev-Task-by-Lemon-Hive/assets/76869065/ca182b17-2c62-45ad-a805-cdfd4571550a)
+![home](https://github.com/mahadi-opu/React-Junior-Front-End-Dev-Task-by-Lemon-Hive/assets/76869065/f0494321-a5b1-4125-9f94-2f441ea88312)
+
 
 
 ## Introduction
