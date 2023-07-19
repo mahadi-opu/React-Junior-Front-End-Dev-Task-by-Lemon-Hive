@@ -22,11 +22,11 @@ I created Front End Next.js 13.4 Application | React, Next JS 13, TypeScript, Ta
 
 [Live Preview](#) &nbsp; &nbsp; [Code Link](#)
 
-![FrontEnd Thanmnail](https://github.com/mahadi-opu/React-Junior-Front-End-Dev-Task-by-Lemon-Hive/assets/76869065/f0494321-a5b1-4125-9f94-2f441ea88312)
+![FrontEnd Thanmnail]()
 
 [Live Preview](#) &nbsp; &nbsp; [Code Link](#)
 
-![others](https://github.com/mahadi-opu/React-Junior-Front-End-Dev-Task-by-Lemon-Hive/assets/76869065/ca182b17-2c62-45ad-a805-cdfd4571550a)
+![others]()
 
 
 ## GraphQL API
@@ -35,7 +35,7 @@ I created GraphQL API using NEXT REACT Project.
 
 [Live Preview](#) &nbsp; &nbsp; [Code Link](#)
 
-<img src="https://user-images.githubusercontent.com/71124853/187373613-4e093a1b-4a3f-412e-a411-f6044b42cd02.png">
+<img src="">
 
 
 ## What to do
@@ -54,9 +54,9 @@ I created GraphQL API using NEXT REACT Project.
 4. Using typescript will be a plus.
 
 # Necessary Resources
-1. [Design Link] (https://www.figma.com/proto/wX9jUME69m4o4aAYNgCaqW/React-(Junior-Front-end-Dev-Task)?page-id=8%3A1272&type=design&node-id=4303-187&viewport=513%2C279%2C0.1&scaling=scale-down-width&starting-point-node-id=4303%3A187)
+1. [Design Link] ()
 
-2. [Design Prototype] (https://www.figma.com/proto/wX9jUME69m4o4aAYNgCaqW/React-(Junior-Front-end-Dev-Task)?page-id=8%3A1272&type=design&node-id=4303-187&viewport=513%2C279%2C0.1&scaling=scale-down-width&starting-point-node-id=4303%3A187)
+2. [Design Prototype] ()
 
 3. [ GraphQL API] (https://api.react-finland.fi/graphql)
 
