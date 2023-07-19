@@ -3,8 +3,8 @@
 
 # Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS
 ![Car Showcase](https://i.ibb.co/GxvFJDZ/Thumbnail.png)
-![Car Showcase](https://ibb.co/98qtP4d)
-![Car Showcase](https://ibb.co/tD2z3bC)
+![Car Showcase](https://ibb.co/98qtP4d/thumbnail/home.jpg)
+![Car Showcase](https://ibb.co/tD2z3bC/thumbnail/others.jpg)
 
 
 ## Introduction
