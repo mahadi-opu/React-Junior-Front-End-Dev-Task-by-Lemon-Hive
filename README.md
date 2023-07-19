@@ -6,7 +6,7 @@
 ![Car Showcase](https://ibb.co/98qtP4d/thumbnail/home.jpg)
 ![Car Showcase](https://ibb.co/tD2z3bC/thumbnail/others.jpg)
 
-![Example Image](thumbnail/others.jpg);
+![Example Image](thumbnail/others.jpg)
 
 
 ## Introduction
