@@ -55,9 +55,9 @@ const Conferences = () => {
                 <div className='experience'>
                   
                     <VerticalTimeline lineColor="#CDCDCD">
-                         <button type="button" className={` contents `} onClick={() => router.push('/condetails')}>
+                       
+                        <Link href={"/condetails"}> 
                             <VerticalTimelineElement
-                                 onClick={() => router.push('/condetails')}
                                 className="vertical-timeline-element--work"
                                 contentStyle={{
                                     background: '#F9FAFB',
@@ -79,9 +79,8 @@ const Conferences = () => {
                                 <h4 className="vertical-timeline-element-title text-[#111D5E] text-[18px] font-[500] flex items-center gap-4"> <span><BsRecordCircleFill className='text-[#FFC93E]' /></span>  Freezing Edge 2023</h4>
                                 <p className='text-[14px] font-[400] text-start text-[#617187]'> The edge isnt bleeding, its freezing! </p>
                             </VerticalTimelineElement>
-                        </button>   
-
-                        <button type="button" className={`contents`} onClick={() => router.push('/condetails')}>
+                        </Link>
+                        
                             <VerticalTimelineElement
                                 className="vertical-timeline-element--work"
                                 date="02 September, 2023"
@@ -101,9 +100,9 @@ const Conferences = () => {
                                 <h4 className="vertical-timeline-element-title text-[#111D5E] text-[18px] font-[500] flex items-center gap-4"> <span><BsRecordCircleFill className='text-[#FFC93E]' /></span> Freezing Edge 2023</h4>
                                 <p className='text-[14px] font-[400] text-start text-[#617187]'> The edge isnt bleeding its freezing! </p>
                             </VerticalTimelineElement>
-                        </button> 
+                      
 
-                          <button type="button" className={`contents`} onClick={() => router.push('/condetails')}>
+                        <Link href={"/condetails"}> 
                             <VerticalTimelineElement
                                 contentStyle={{
                                     background: '#F9FAFB',
@@ -122,8 +121,7 @@ const Conferences = () => {
                                 <h4 className="vertical-timeline-element-title text-[#111D5E] text-[18px] font-[500] flex items-center gap-4"> <span><BsRecordCircleFill className='text-[#FFC93E]' /></span> Freezing Edge 2023</h4>
                                 <p className='text-[14px] font-[400] text-start text-[#617187]'> The edge isnt bleeding its freezing! </p>
                             </VerticalTimelineElement>
-                        </button> 
-                        <button type="button" className={`contents`} onClick={() => router.push('/condetails')}>
+                        </Link>
                             <VerticalTimelineElement
                                 contentStyle={{
                                     background: '#F9FAFB',
@@ -142,7 +140,7 @@ const Conferences = () => {
                                 <h4 className="vertical-timeline-element-title text-[#111D5E] text-[18px] font-[500] flex items-center gap-4"> <span><BsRecordCircleFill className='text-[#FFC93E]' /></span> Freezing Edge 2023</h4>
                                 <p className='text-[14px] font-[400] text-start text-[#617187]'> The edge isnt bleeding its freezing! </p>
                             </VerticalTimelineElement>
-                        </button> 
+                      
                     </VerticalTimeline>
                 </div>
             </Wrapper>
