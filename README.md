@@ -5,9 +5,6 @@
 
 
 ## Introduction
-Welcome to the first phase of the recruitment process for the Front-end (Junior Level) developer position at Lemon Hive. It's time to unleash your front-end skills as you transform a Figma Design into a conference site. Let your skills shine, and show us the magic of your coding artistry.
-Now, let us give you the instructions for the assessment:
-
 
 Alongside building this application, you'll also learn how to:
 - Use Next.js 13.4 App Router and Server Side Rendering
