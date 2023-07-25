@@ -1,4 +1,4 @@
-# React Junior Front End Dev Task by Lemon Hive
+# React NEXT Project Tusk
 
 ## Build and Deploy a Modern Next.js 13.4 Application | React, Next JS 13, TypeScript, Tailwind CSS 
 
